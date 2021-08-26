@@ -1,0 +1,6 @@
+"ordenId, ordenDetalleId, cantidad, precioConDescuento, precioUnitario, descuento, total, productoId, productoNombre, precioEstandar, precioLista, productoCategoria, companiaNombre, metodoEnvio, fechaVencimiento, ciudadEntrega"
+"11111, 1212, 1, 560, 560, 0.40, 560, 122, MountainGloves, 700, 700, MountainFrames, Nearby Cyde shop, CARGO TRANSPORT 4, 2021-08-25 00:00:00, Kansas"
+"22222, 2323, 50, 950, 1000, 0.30, 4800, 150, MountainGloves, 1000, 1000, MountainFrames, Nearby Cyde Shop, CARGO TRANSPORT 4, 2021-08-25 00:00:00, kansas"
+"33333, 3434, 2, 560,560, 0.20, 1120, 555, MountainGloves, 700, 700, MountainFrames, Nearby Cyde Shop, CARGO TRANSPORT 4, 2021-08-25 00:00:00, kansas"
+"44444, 4545, 1, 2000, 2000, 0.2, 2000, 1212, MountainBackpack, 2500, 2500, Mountain Frames, Nearby Cyde Shop, CARGO TRANSPORT 4, 2021-08-25 00:00:00, Kansas"
+"55555, 5656, 1, 300, 300, 0.20, 300, 1233, Mountain Sunglasses, 320, 320, Mountain Frames, Nearby Cyde Shop, CARGO TRANSPORT 4 , 2021-08-25 00:00:00, Kansas"
